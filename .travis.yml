@@ -1,3 +1,4 @@
 language: objective-c
 xcode_workspace: iOSTestExample.xcworkspace
 xcode_scheme: iOSTestExampleTests
+xcode_sdk: iphonesimulator
